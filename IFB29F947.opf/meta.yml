@@ -1,0 +1,134 @@
+id: IFB29F947
+ocr_import_info:
+  timestamp: '2023-10-07T14:08:05.346880+00:00'
+  batch_id: batch-47f5
+  ocr_engine: GoogleVisionEngine
+  ocr_model_type: builtin/weekly
+  ocr_lang_hint: ''
+  software_id: ocr-pipelines@v0.1.11
+  sponsor: Dharmakyab
+  sponsor_consent: true
+  op_import_options: {}
+  op_import_version: 0.11.7
+default_language: bo
+source: https://library.bdrc.io
+initial_creation_type: ocr
+imported: 2023-10-12 02:05:14.474332+00:00
+last_modified: 2023-10-12 02:05:14.474340+00:00
+source_metadata:
+  id: http://purl.bdrc.io/resource/W3CN766
+  status: http://purl.bdrc.io/admindata/StatusReleased
+  access: http://purl.bdrc.io/admindata/AccessOpen
+  reproduction_of: http://purl.bdrc.io/resource/MW3CN766
+  copyright_status: http://purl.bdrc.io/resource/CopyrightPublicDomain
+  title: སྤྱི་ལོ ༢༠༠༨ལོར་བསམ་འགྲུབ་ཀྱིས་ཉར་ཚགས་བྱས་པའི་སྡེ་དགེའི་དམངས་ཁྲོད་ཀྱི་གནའ་དཔེ་བྲིས་མའི་གློག་རྡུལ་འདྲ་བཤུས།
+  languages:
+  - bo
+statistics:
+  ocr_word_mean_confidence_index: 0.886268237100918
+  ocr_word_median_confidence_index: 0.9389514
+bases:
+  I3CN769:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I3CN769
+      total_pages: 1193
+      volume_number: 2
+      volume_pages_bdrc_intro: 2
+    order: 2
+    base_file: I3CN769.txt
+    statistics:
+      ocr_word_median_confidence_index: 0.9462425
+      ocr_word_mean_confidence_index: 0.892581186832213
+  I3CN773:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I3CN773
+      total_pages: 548
+      volume_number: 6
+      volume_pages_bdrc_intro: 2
+    order: 6
+    base_file: I3CN773.txt
+    statistics:
+      ocr_word_median_confidence_index: 0.92674173
+      ocr_word_mean_confidence_index: 0.881317743396376
+  I3CN770:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I3CN770
+      total_pages: 560
+      volume_number: 3
+      volume_pages_bdrc_intro: 2
+    order: 3
+    base_file: I3CN770.txt
+    statistics:
+      ocr_word_median_confidence_index: 0.9576367800000001
+      ocr_word_mean_confidence_index: 0.9045730309878858
+  I3CN776:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I3CN776
+      total_pages: 624
+      volume_number: 9
+      volume_pages_bdrc_intro: 2
+    order: 9
+    base_file: I3CN776.txt
+    statistics:
+      ocr_word_median_confidence_index: 0.93094939
+      ocr_word_mean_confidence_index: 0.8804549939672273
+  I3CN768:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I3CN768
+      total_pages: 57
+      volume_number: 1
+      volume_pages_bdrc_intro: 2
+    order: 1
+    base_file: I3CN768.txt
+    statistics:
+      ocr_word_median_confidence_index: 0.99318295
+      ocr_word_mean_confidence_index: 0.9378905626208975
+  I3CN771:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I3CN771
+      total_pages: 516
+      volume_number: 4
+      volume_pages_bdrc_intro: 2
+    order: 4
+    base_file: I3CN771.txt
+    statistics:
+      ocr_word_median_confidence_index: 0.9843337
+      ocr_word_mean_confidence_index: 0.9317188316932746
+  I3CN772:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I3CN772
+      total_pages: 596
+      volume_number: 5
+      volume_pages_bdrc_intro: 2
+    order: 5
+    base_file: I3CN772.txt
+    statistics:
+      ocr_word_median_confidence_index: 0.87457538
+      ocr_word_mean_confidence_index: 0.8293366612941176
+  I3CN774:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I3CN774
+      total_pages: 922
+      volume_number: 7
+      volume_pages_bdrc_intro: 2
+    order: 7
+    base_file: I3CN774.txt
+    statistics:
+      ocr_word_median_confidence_index: 0.93141127
+      ocr_word_mean_confidence_index: 0.8843256487240478
+  I3CN775:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I3CN775
+      total_pages: 534
+      volume_number: 8
+      volume_pages_bdrc_intro: 2
+    order: 8
+    base_file: I3CN775.txt
+    statistics:
+      ocr_word_median_confidence_index: 0.91808504
+      ocr_word_mean_confidence_index: 0.8607934138580993
+copyright:
+  status: Public domain
+  notice: Public domain
+  info_url: https://creativecommons.org/publicdomain/mark/1.0/
+license: CC0
